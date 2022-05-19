@@ -1,2 +1,2 @@
-# uxe-01-tailwindlanding
+# 01-Tailwind UI
 Landing Page Sample
